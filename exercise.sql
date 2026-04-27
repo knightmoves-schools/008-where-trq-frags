@@ -1,2 +1,2 @@
 -- Add your SQL here
-SELECT * FROM EMPLOYEE WHERE SALES = 1162;
+SELECT * FROM EMPLOYEE WHERE "Sales Associate" = 1162;
